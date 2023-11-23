@@ -1,9 +1,18 @@
-p {
-    color: blue;
+.part1 p {
+    color: white;
+    background-color: black;
 }
 
-h2 {
+.part2 p {
+    color: green;
+    background-color: darkred;
+}
+
+.part1 h2 {
     color: red;
+}
+.part2 h2 {
+    color: green;
 }
 
 div {
